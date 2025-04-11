@@ -24,3 +24,31 @@ Previsibilidade: Permite o avanço confiante no desempenho ou custo, com uso do 
 Segurança: fornece uma grande variedade de recursos e ferramentas onde muitas delas implantas pelo cliente. dependendo do modele de segurança a ser adotado pela empresa pode se implantado infraestrutura como serviço onde os recursos são gerenciados pelo cliente recursos como sistema operacional app instalados, patches e manutenção. O modelo de plataforma como serviço toda a manutenção, atualização e aplicações de Patchs são realizadas pela novem assim como o modelo de software como serviço.
 Governança: Processo de auditoria em nuvem, sinaliza qualquer recurso que esteja fora de conformidade como os padrões, ajuda a manter o ambiente protegido a atualizado e bem gerenciada.
 Gerenciabilidade: sendo um dos principais beneficious da nuvem, o gerenciamento diz respite a maneira de gerenciar o ambiente em novem e seus recursos,  por meio de portal web, CLI, APIs ou PowerShell.
+------------------------------------------------------------------------------------
+Descrever os serviços de:
+IaaS : Infraestrutura com serviço
+PaaS : Plataforma como serviço
+SaaS : Software como serviço
+Classificar e identificar cada modelo de caso de uso para os serviço em nuvem
+Modelos de responsabilidade compartilhada 
+
+IaaS : IaaS oferece flexibilidade, controle e escalabilidade sem precedentes, sendo ideal para empresas que desejam modernizar sua infraestrutura mantendo autonomia e eficiência. Quando bem implementado com boas práticas e governança, IaaS reduz custos, melhora a agilidade operacional e fortalece a resiliência do negócio.
+principais aplicações : Hospedagem de sistemas legados sem necessidade de reescrita de código.
+Ambientes de teste e desenvolvimento dinâmicos e descartáveis.
+Infraestrutura escalável para startups e empresas em crescimento, sem necessidade de capital inicial elevado.
+Soluções de Disaster Recovery (DR) geograficamente distribuídas.
+Execução de aplicações críticas, como ERPs, bancos de dados, VMs para aplicações internas e servidores web.
+
+PaaS : O PaaS oferece grandes vantagens em velocidade, escalabilidade e eficiência. Implementá-lo corretamente exige planejamento e boas práticas para obter o máximo de benefícios sem comprometer segurança e custo.
+Aplicabilidades : Desenvolvimento Web e Mobile: Criação e hospedagem de aplicativos.
+Big Data e Analytics: Plataformas PaaS integram serviços para processamento de dados e inteligência artificial.
+Internet das Coisas (IoT): Facilitam conexão e processamento de dados de dispositivos IoT na nuvem.
+Automação e Integração Corporativa: Integração de aplicações e APIs para conectar fluxos de trabalho entre sistemas distintos.
+
+SaaS : SaaS, ou Software como Serviço, representa um modelo de distribuição e licenciamento de software onde o acesso à aplicação é fornecido via internet, geralmente sob um regime de assinatura.
+Aplicabilidades : Gestão de Relacionamento com o Cliente (CRM): Salesforce, HubSpot CRM.
+Planejamento de Recursos Empresariais (ERP): NetSuite, SAP Business ByDesign.
+Ferramentas de Colaboração e Produtividade: Google Workspace, Microsoft 365, Slack, Zoom.
+Marketing e Vendas: Mailchimp, RD Station, Pipedrive.
+Gerenciamento de Projetos: Asana, Trello, Jira.
+--------------------------------------------------------------------------------------------------------------------------------
