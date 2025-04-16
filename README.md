@@ -52,3 +52,32 @@ Ferramentas de Colaboração e Produtividade: Google Workspace, Microsoft 365, S
 Marketing e Vendas: Mailchimp, RD Station, Pipedrive.
 Gerenciamento de Projetos: Asana, Trello, Jira.
 --------------------------------------------------------------------------------------------------------------------------------
+
+Modulo 2:
+Arquitetura e Serviços do Azure
+AZ-900 : Introdução aos Conceitos Básicos do Microsoft Azure
+
+Computação e rede :
+- Comparar os tipos de computação do tipo instancia de contêiner, maquinas virtuais e funções conjuntos de dimensionamento de máquinas virtuais, conjuntos de disponibilidade de máquinas virtuais e a Área 
+de Trabalho Virtual do Azure.
+- descrever os requisito exigidos para maquina virtual.
+- Onde a computação do Azure é um serviço sob demanda que fornece recursos de computação como disco, processador, memoria, rede e sistema operacional.
+- maquinas Virtuais são ofertas de IaaS que oferece personalização e controle total, onde o conjunto de dimensionamento oferece uma oportunidade de balanceamento de carga para dimensionamento de carga.
+- A Área de Trabalho Virtual do Azure é uma virtualização de área de trabalho e aplicativo executada na nuvem.
+- Possibilidade de um ambiente completo de virtualização da área de trabalho sem precisar executar outros servidores de gateway. 
+Reduza o risco de que o recurso seja deixado para trás.
+Implantações reais de várias sessões.
+- Contêineres do Azure oferecem um ambiente virtual leve e sem a necessidade de gerenciar o sistema operacional.
+- Instâncias de Contêiner do Azure são uma solução PaaS para executar contêineres ou grupos de contêineres.
+- Aplicativos de Contêiner do Azure também são uma oferta PaaS, permitindo balanceamento de carga e escalabilidade.
+- O Serviço de Kubernetes do Azure atua como um orquestrador para contêineres em arquiteturas distribuídas e com grande volume.
+- Azure Functions é uma solução PaaS que suporta computação sem servidor, executando código baseado em eventos quando necessário, sem infraestrutura durante períodos de inatividade.
+- O logon de vários clientes permite que vários usuários façam logon no mesmo computador na ao mesmo tempo.
+- Os aplicativos e serviços são empacotados em um contêiner que fica na parte superior do sistema operacional do host. 
+Rede Virtual do Azure (VNet) permite que os recursos do Azure se comuniquem uns com os outros, com a Internet e com as redes locais.Pontos de extremidade públicos, acessíveis de qualquer lugar na Internet.Pontos de extremidade privados, acessíveis somente de dentro da sua rede.
+- As O Gateway de VPN é usado para enviar tráfego criptografado entre uma rede virtual do Azure e uma no local pela Internet pública. 
+- Segurança do DNS do Azure baseia-se no gerenciador de recursos do Azure, habilitando o controle de acesso baseado em função e o monitoramento e o registro em log. 
+- Redes virtuais personalizáveis permitem que você use nomes de domínio privados e totalmente personalizados em suas redes virtuais privadas. 
+- Os registros de alias dão suporte a conjuntos de registros de alias para apontar diretamente para um recurso do Azure.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
